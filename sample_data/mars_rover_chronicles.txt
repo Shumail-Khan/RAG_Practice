@@ -1,0 +1,19 @@
+Project Ares-7 Mars Exploration Mission Briefing
+
+Mission Overview:
+The Ares-7 mission was launched from Kennedy Space Center on March 14, 2028, aboard a Titan Heavy rocket. The mission objective was to locate subsurface water ice reservoirs in the Promethei Planum region of Mars.
+
+Rover Specifications:
+- Rover Name: Zephyr-IV
+- Power Source: Advanced Thermoelectric Tritium Core (ATTC-9), generating 350 Watts of continuous power for an estimated 15 Earth years.
+- Navigation System: Dual Optic LiDAR with AI-driven autonomous pathfinding capable of traversing 1.2 kilometers per Martian Sol.
+- Primary Instrument: Deep-Radar Subsurface Profiler (DRSP), capable of scanning soil density down to a depth of 45 meters.
+- Communication: Ka-band phased array antenna transmitting data directly to the Mars Reconnaissance Orbiter II at 85 Mbps.
+
+Key Discoveries:
+On Sol 142, Zephyr-IV detected a massive subterranean ice layer at a depth of 12.4 meters. Spectrometric analysis revealed the ice purity to be approximately 98.2%, with traces of magnesium perchlorate and sodium sulfate. This reservoir is estimated to contain over 4.8 million cubic meters of water, making it a prime candidate for future human base colonization.
+
+Team Leadership:
+- Mission Director: Dr. Elena Vance
+- Chief Roboticist: Dr. Marcus Sterling
+- Ground Operations Lead: Commander Sean K. Reynolds
